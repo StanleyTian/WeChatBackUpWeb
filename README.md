@@ -1,37 +1,32 @@
 ## 小田微信备份
 
-You can use the [editor on GitHub](https://github.com/StanleyTian/WeChatBackUpWeb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+微信聊天记录动不动就一两个G，占用了大量的手机空间，有时候聊天记录舍不得删除，
+腾讯官方有没有提供好用的备份工具*，带来了很多麻烦。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+随着iOS 9的发布，网上多数的微信备份工具都已变得不可用。
+极少数可用的第三方软件也都是收费的，贵的要命。
 
-### Markdown
+于是乎我就写了一个用来备份微信聊天记录的程序。完全免费。
+目前支持iPhone导入Mac，日后看需在再扩展到安卓和Windows
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+iOS版本：10.2
 
-```markdown
-Syntax highlighted code block
+macOS版本：10.12（Sierra）
 
-# Header 1
-## Header 2
-### Header 3
+下载地址：
 
-- Bulleted
-- List
+联系我请发邮件： tsycnh@126.com
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### 更新日志：
+***
 
-[Link](url) and ![Image](src)
-```
+v0.0.0
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2017年02月01日
 
-### Jekyll Themes
+测试网站
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StanleyTian/WeChatBackUpWeb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+***
+\* 微信的Windows桌面版支持安卓和苹果的聊天记录备份，但并不支持在电脑上查看
